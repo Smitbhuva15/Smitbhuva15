@@ -42,7 +42,15 @@
 
 <h3 align="left">Smart Contract Frameworks</h3>
 
- <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Foundry-orange?style=flat-square&logo=Ethereum&logoColor=black" alt="foundry" height="28" width="105"/> </a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Hardhat-orange?style=flat-square&logo=hardhat&logoColor=white" alt="hardhat" height="28" width="105"/>
+</a>
+<a href="https://docs.ethers.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Ethers.js-627EEA?style=flat-square&logo=ethereum&logoColor=white" alt="ethersjs" height="28" width="105"/>
+</a>
+
+
+
  
 
 
