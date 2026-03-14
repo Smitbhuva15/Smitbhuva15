@@ -1,9 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4100&lines=Hi+There!+👋+I'm+Smit+Bhuva;"/>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=50&pause=1000&color=2FA4D7&center=true&vCenter=true&width=1000&height=150&lines=Hi+There!+%F0%9F%91%8B+I'm+Smit+Bhuva" alt="Typing SVG" /></a>
 </h1>
 
-
-<h3 align="center">Smart Contract Developer skilled in Solidity, Web3, Ethereum, and blockchain.</h3>
+<h3 align="center">Full Stack Developer & DevOps Engineer skilled in building scalable web applications, cloud infrastructure, and DevOps automation.</h3>
 
 
 <br>
