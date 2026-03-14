@@ -10,15 +10,15 @@
 # 💫 About Me:
 
 
-- 🔭 I’m currently working on **Ethereum Smart Contracts**
+-  Passionate about developing **scalable Full Stack applications**
 
-- 🌱 I’m currently learning **Web3 Ecosystem**
+- Exploring DevOps tools for **automation**, **monitoring**, and **deployment**
 
-- 👯 I’m looking to collaborate on **Open Source projects**
+- Open to collaborating on exciting **Open Source projects**
 
-- 👨‍💻 All of my projects are available [**here**](https://github.com/Smitbhuva15?tab=repositories)
+- All of my projects are available [**here**](https://github.com/Smitbhuva15?tab=repositories)
 
-- 💬 Ask me about **Smart Contracts (Solidity) and Blockchain**
+- Ask me about Web Development, DevOps, Automation, and CI/CD pipelines
 
 <h3 align="left">Blockchains</h3>
 <p align="left">
